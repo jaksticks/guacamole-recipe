@@ -1,6 +1,7 @@
 * chop avocados
 * chop onion
 * squeeze lime
+* add sugar
 * add salt
 * add chili powder
 * and mix well
