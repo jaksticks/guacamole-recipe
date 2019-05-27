@@ -4,6 +4,5 @@
 * add sugar
 * add salt
 * add chili powder
-* add pepper
 * and mix well
 * enjoy!
